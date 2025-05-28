@@ -44,7 +44,7 @@
 
 ```bash
 # リポジトリをクローン
-git clone https://github.com/your-username/kamakura-hoiku-calculator.git
+git clone https://github.com/ko-hioki/kamakura-hoiku-calculator.git
 cd kamakura-hoiku-calculator
 
 # 依存関係をインストール
@@ -160,7 +160,7 @@ kamakura-hoiku-calculator/
 
 ---
 
-**開発者**: あなたの名前  
+**開発者**: Hioki Koji  
 **最終更新**: 2025年5月28日  
 **バージョン**: 1.0.0
     ...reactDom.configs.recommended.rules,

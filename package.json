@@ -3,11 +3,11 @@
   "private": false,
   "version": "1.0.0",
   "description": "鎌倉市保育園入園調整点数計算ツール - Kamakura City Nursery School Admission Score Calculator",
-  "author": "Your Name <your.email@example.com>",
+  "author": "Hioki Koji <ko.hioki@example.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/kamakura-hoiku-calculator.git"
+    "url": "https://github.com/ko-hioki/kamakura-hoiku-calculator.git"
   },
   "keywords": [
     "kamakura",
