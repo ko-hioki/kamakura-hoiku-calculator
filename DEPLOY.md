@@ -25,8 +25,8 @@ git add .
 # 初回コミット
 git commit -m "Initial commit: 鎌倉市保育園入園調整点数計算ツール"
 
-# リモートリポジトリを追加（あなたのGitHubユーザー名に変更してください）
-git remote add origin https://github.com/your-username/kamakura-hoiku-calculator.git
+# リモートリポジトリを追加
+git remote add origin https://github.com/ko-hioki/kamakura-hoiku-calculator.git
 
 # メインブランチにプッシュ
 git branch -M main
