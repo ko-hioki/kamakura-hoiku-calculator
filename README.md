@@ -13,12 +13,10 @@
 - **保護者別点数計算**: 父・母それぞれの就労状況に基づく基本点数の算出
 - **調整点数計算**: ひとり親世帯、多子世帯などの調整要因による加減点
 - **リアルタイム計算**: 入力と同時に点数が更新される
-- **レスポンシブデザイン**: スマートフォン、タブレット、PCに対応
-- **リセット機能**: 入力内容を一括でクリアできる
 
 ## 🚀 デモ
 
-[ライブデモを見る](https://your-demo-url.com) （デプロイ後にURLを更新してください）
+[ライブデモを見る]([https://your-demo-url.com](https://ko-hioki.github.io/kamakura-hoiku-calculator/)) 
 
 ## 📋 対応する基準
 
@@ -57,8 +55,6 @@ yarn dev
 # または
 npm run dev
 ```
-
-ブラウザで `http://localhost:5173` を開いてアプリケーションを確認できます。
 
 ## 🎮 使用方法
 
@@ -144,23 +140,25 @@ kamakura-hoiku-calculator/
 
 ## ⚠️ 免責事項
 
-- このツールは参考用です。正式な点数は鎌倉市の審査をお待ちください
+- このツールは参考用です。
 - 計算結果の正確性については保証いたしません
 - 最新の基準については鎌倉市公式サイトをご確認ください
 
 ## 📞 サポート
 
 - 問題やバグを見つけた場合は、[Issues](https://github.com/your-username/kamakura-hoiku-calculator/issues) でお知らせください
-- 改善提案も歓迎します
 
 ## 🔗 関連リンク
 
-- [鎌倉市公式サイト](https://www.city.kamakura.kanagawa.jp/)
-- [保育所等利用調整基準表（令和7年度）](https://www.city.kamakura.kanagawa.jp/kodomo/hoiku/index.html)
+- [令和7年度保育所等入所申込みのご案内（鎌倉市）](https://www.city.kamakura.kanagawa.jp/hoiku/r7nyushomoushikomi.html)
+- [令和7年度利用調整基準表](https://www.city.kamakura.kanagawa.jp/hoiku/documents/r7_riyouchousei.pdf)
 
 ---
 
-**開発者**: Hioki Koji  
+**開発者**: Hioki Koji
+**AI生成**
+- コード生成: Claude Sonnet 4
+- 仕様: Gemini
 **最終更新**: 2025年5月28日  
 **バージョン**: 1.0.0
     ...reactDom.configs.recommended.rules,
