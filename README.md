@@ -156,12 +156,11 @@ kamakura-hoiku-calculator/
 ---
 
 **開発者**: Hioki Koji
-**AI生成**
-- コード生成: Claude Sonnet 4
-- 仕様: Gemini
+
+**コード生成**: Claude Sonnet 4
+
+**仕様生成**: Gemini
+
 **最終更新**: 2025年5月28日  
+
 **バージョン**: 1.0.0
-    ...reactDom.configs.recommended.rules,
-  },
-})
-```
